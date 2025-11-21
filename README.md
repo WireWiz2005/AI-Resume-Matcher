@@ -1,4 +1,4 @@
-# AI Resume Analyzer
+# AI-Driven Resume Analyzer & Job Match System
 
 A backend application that analyzes a candidate’s resume against a job description and generates a detailed match score. The system extracts skills, checks experience, compares text similarity, and highlights missing or matched skills. It also supports PDF and DOCX resume uploads with automatic text extraction.
 
